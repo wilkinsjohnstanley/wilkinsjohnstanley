@@ -4,8 +4,8 @@
 I’m a passionate software developer with a Master’s degree in Computer Science from the University of Southern Mississippi. I thrive on creating dynamic, scalable applications and have experience in full-stack development, specializing in TypeScript, React, Node.js, and AWS.
 
 - 🔭 I’m currently working on: Improving my TypeScript and cloud skills
-- 🌱 I’m currently learning: Advanced algorithms, AWS services, and OpenCV
-- 💬 Ask me about: Web development, TypeScript, cloud computing, and software security
+- 🌱 I’m currently learning: AWS Services, Android App Development, and Game Development. 
+- 💬 Ask me about: Web development, cloud computing, and Japanese.
 - 🎮 Fun fact: I’m a tech enthusiast who loves building games and creative projects!
 
 ---
