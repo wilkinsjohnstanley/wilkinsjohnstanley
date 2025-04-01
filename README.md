@@ -36,14 +36,12 @@ I’m a passionate software developer with a Master’s degree in Computer Scien
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilkinsjohnstanley&show_icons=true&theme=radical)
+
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=wilkinsjohnstanley&theme=radical)
 
-## 🎮 Play My Pac-Man Game
-[Play Now](https://john-wilkins.github.io/pacman-game)
+
 
 ---
 
