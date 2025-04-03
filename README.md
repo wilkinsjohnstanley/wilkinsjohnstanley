@@ -11,7 +11,7 @@ I’m a passionate software developer with a Master’s degree in Computer Scien
 ---
 
 ## 🛠️ Skills
-**Languages:** JavaScript, TypeScript, SQL  
+**Languages:** JavaScript, TypeScript, SQL, Kotlin, C#
 **Frameworks:** Next.js, React.js, MongoDB, Express.js, Node.js  
 **Tools:** Git, GitHub, VS Code  
 **Cloud Computing:** AWS
