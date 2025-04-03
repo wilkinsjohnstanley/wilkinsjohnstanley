@@ -19,20 +19,27 @@ I’m a passionate software developer with a Master’s degree in Computer Scien
 ---
 
 ## 🚀 Projects
-- [🛒 Shopping Cart](https://github.com/wilkinsjohnstanley/typescript-shoppingcart)
-  - Implemented a responsive frontend with React.js
-  - Ensured type safety using TypeScript
-  - Leveraged React Hooks for state management
+- [Portfolio Website - Node.js, JavaScript, AWS Route 53, AWS Amplify, APIs]
+  -   Used AWS Amplify to host the website online and AWS Route 53 to register my domain
+  -   Added language toggle with recognizable icon for English/Japanese website versions
+  -   Implemented an API call to OpenWeatherMap for real-time weather information
+  -   Developed a responsive web application with seamless mobile optimization
 
-- [🛍️ Metromart](https://github.com/wilkinsjohnstanley/metromart)
-  - Created a SQL Server-backed eCommerce data solution
-  - Built a user interface using React.js
-  - Implemented a responsivle frontend
 
-- [🛡️ Cryptopals Testing Suite](https://github.com/Streudal/cryptopals)
-  - Collaborated on a testing suite using GitHub
-  - Built a user interface with Next.js and Vitest
-  - Implemented dynamic routing and UI design
+- [🛍️ Unity 2D Platformer Game - C# ](https://github.com/wilkinsjohnstanley/2DUnityGame)
+  - Used the Sprite Editor to unpack sprite sheets for use in the game.
+  - Used Unity 2D Game Engine's Tile Pallete system to seamlessly design levels.
+  - Implemented game mechanics such as character movement and animation using C#.
+  - Implemented a friendly user interface to bridge the gap between the user and the game.
+
+
+- [🛡️ Android Mobile Portfolio](https://github.com/wilkinsjohnstanley/KotlinPortfolioApp)
+  - 
+    Created an app using Android Studio and Kotlin natively.
+    Created a friendly user interface.
+    Imported assets such as icons.
+    Ensured capatability for 97% of Android devices.
+
 
 ---
 
