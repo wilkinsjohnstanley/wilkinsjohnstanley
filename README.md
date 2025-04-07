@@ -24,6 +24,12 @@ I’m a passionate software developer with a Master’s degree in Computer Scien
   - Added a language toggle with recognizable icons for English/Japanese website versions.  
   - Implemented an API call to OpenWeatherMap for real-time weather information.  
   - Developed a responsive web application with seamless mobile optimization.
+  - 
+- **[🎬 YouTube Comment Sentiment Analyzer - Python, Flask, APIs,  NLTK and TextBlob](https://github.com/wilkinsjohnstanley/2DUnityGame)**  
+  - Developed a YouTube comment sentiment analyzer using Python, Flask, and the YouTube Data API that processes and categorizes video comments in real-time, providing insights into viewer engagement and discussion topics
+  - Implemented natural language processing techniques using NLTK and TextBlob to extract key discussion topics, analyze sentiment, and generate comprehensive summaries of comment sections
+  - Created a modern web interface with Bootstrap that displays filtered comments, sentiment analysis, and topic summaries, improving content creators' ability to understand audience feedback
+  - Created a modern web interface with Bootstrap that displays filtered comments, sentiment analysis, and topic summaries, improving content creators' ability to understand audience feedback
 
 - **[🎮 Unity 2D Platformer Game - C#](https://github.com/wilkinsjohnstanley/2DUnityGame)**  
   - Used the Sprite Editor to unpack sprite sheets for use in the game.  
