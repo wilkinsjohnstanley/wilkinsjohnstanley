@@ -29,7 +29,7 @@ I’m a passionate software developer with a Master’s degree in Computer Scien
   - Developed a YouTube comment sentiment analyzer using Python, Flask, and the YouTube Data API that processes and categorizes video comments in real-time, providing insights into viewer engagement and discussion topics
   - Implemented natural language processing techniques using NLTK and TextBlob to extract key discussion topics, analyze sentiment, and generate comprehensive summaries of comment sections
   - Created a modern web interface with Bootstrap that displays filtered comments, sentiment analysis, and topic summaries, improving content creators' ability to understand audience feedback
-  - Created a modern web interface with Bootstrap that displays filtered comments, sentiment analysis, and topic summaries, improving content creators' ability to understand audience feedback
+  - Engineered robust text processing algorithms to clean HTML tags, identify nouns, and extract meaningful discussion topics, demonstrating strong problem-solving and data processing skills
 
 - **[🎮 Unity 2D Platformer Game - C#](https://github.com/wilkinsjohnstanley/2DUnityGame)**  
   - Used the Sprite Editor to unpack sprite sheets for use in the game.  
