@@ -19,6 +19,11 @@ I’m a passionate software developer with a Master’s degree in Computer Scien
 ---
 
 ## 🚀 Projects
+- **[📱TrainSpotterJP - React, Node.js, Google Maps API](https://github.com/wilkinsjohnstanley/TrainSpotterJP/blob/main/TrainSpottersJP.png))**  
+  - Utilized the Google Maps JavaScript API to display the map. 
+  - Built a friendly user interface with intuitive navigation.  
+  - Implemented an alert system that checks for approaching trains and sends alerts to the user using WebSockets. 
+
 - **[🌐 Portfolio Website - Node.js, JavaScript, AWS Route 53, AWS Amplify, APIs]**  
   - Used AWS Amplify to host the website online and AWS Route 53 to register my domain.  
   - Added a language toggle with recognizable icons for English/Japanese website versions.  
