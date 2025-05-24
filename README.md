@@ -10,7 +10,7 @@ I am also confident that my soft skills through most recently becoming a robotic
 
 ## 🛠️ Skills
 **Languages:** JavaScript, TypeScript, SQL, Kotlin, C#
-**Frameworks:** Next.js, React.js, MongoDB, Express.js, Node.js  
+**Frameworks:** Angular.js, React.js, MongoDB, Express.js, Node.js  
 **Tools:** Git, GitHub, VS Code  
 **Cloud Computing:** AWS
 
