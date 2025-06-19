@@ -24,7 +24,11 @@ I am also confident that my soft skills through most recently becoming a robotic
   - Added a language toggle with recognizable icons for English/Japanese website versions.  
   - Implemented an API call to OpenWeatherMap for real-time weather information.  
   - Developed a responsive web application with seamless mobile optimization.
-    
+- **[🌐 MetroMart - React, Express, Node, and MySQL. ]**  
+  - The project addresses the challenge of efficiently managing retail operations.
+  - Created scalable database allowing for extensibility across multiple stores with varying product availability, pricing, and stock levels.
+  - Fully functional interface for managing and analyzing data in the database. 
+  - Developed a responsive web application with seamless mobile optimization.
 
 ---
 
