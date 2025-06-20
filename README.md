@@ -19,7 +19,7 @@ I am also confident that my soft skills through most recently becoming a robotic
 ## 🛠️ Under Construction
 
 
-- **[📈 AI-Powered Portfolio Manager – Python, React.js, AWS, FastAPI, PyPortfolioOpt, MongoDB]**  
+- **[📈 AI-Powered Portfolio Manager – Python, React.js, AWS, FastAPI, PyPortfolioOpt, MongoDB](https://github.com/wilkinsjohnstanley/AI-Powered-Portfolio-Manager-)**  
   - Building a smart portfolio management tool using AI models for risk-adjusted asset allocation and performance forecasting.
 
   - Integrating market and sentiment data APIs (e.g., Alpha Vantage, Reddit) for real-time financial insights.
