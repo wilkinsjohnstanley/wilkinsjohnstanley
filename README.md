@@ -16,6 +16,21 @@ I am also confident that my soft skills through most recently becoming a robotic
 
 ---
 
+## 🛠️ Under Construction
+
+
+- **[📈 AI-Powered Portfolio Manager – Python, React.js, AWS, FastAPI, PyPortfolioOpt, MongoDB]**  
+  - Building a smart portfolio management tool using AI models for risk-adjusted asset allocation and performance forecasting.
+
+  - Integrating market and sentiment data APIs (e.g., Alpha Vantage, Reddit) for real-time financial insights.
+
+  - Developing and deploying ML models (Scikit-learn, LightGBM) via FastAPI for portfolio optimization recommendations.
+
+  - Creating an interactive React dashboard with charts and rebalancing insights using Plotly and D3.js.
+
+  - Deploying full-stack app on AWS using EC2, S3, and Route 53; secured backend with OAuth2 and HTTPS.
+
+---
 ## 🚀 Projects
 
 
