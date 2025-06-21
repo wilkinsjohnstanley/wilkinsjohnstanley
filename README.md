@@ -17,7 +17,7 @@ I am also confident that my soft skills through most recently becoming a robotic
 ---
 
 ## 🛠️ Under Construction
-- **[📈 StockPicker.AI – Python, Streamlit ](https://github.com/wilkinsjohnstanley/AI-Powered-Portfolio-Manager-)**  
+- **[📈 StockPicker.AI – Python, Streamlit ](https://github.com/wilkinsjohnstanley/stockpicker.ai)**  
   - Stock prediction web app in Python using streamlit, yahoo finance, and Facebook Prophet
 
 - **[📈 AI-Powered Portfolio Manager – Python, React.js, AWS, FastAPI, PyPortfolioOpt, MongoDB](https://github.com/wilkinsjohnstanley/AI-Powered-Portfolio-Manager-)**  
