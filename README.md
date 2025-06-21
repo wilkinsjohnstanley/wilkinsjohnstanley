@@ -9,8 +9,8 @@ I am also confident that my soft skills through most recently becoming a robotic
 ---
 
 ## 🛠️ Skills
-**Languages:** JavaScript, SQL, Java
-**Frameworks:** React.js, Express.js, Node.js  
+**Languages:** Python, JavaScript, SQL, Java
+**Frameworks:** Streamlit, React.js, Express.js, Node.js  
 **Tools:** Git, GitHub, VS Code  
 **Cloud Computing:** AWS
 
