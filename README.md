@@ -18,7 +18,9 @@ I am also confident that my soft skills through most recently becoming a robotic
 
 ## 🛠️ Under Construction
 
-- **[📈 AI-Powered Portfolio Manager – React.js, Java, PostgreSQL **  
+- **[📈 AI-Powered Portfolio Manager – React.js, Java, PostgreSQL **
+  - This is my modern financial assistant app for empowering others to find the next big opportunity in the stock market.
+     
   - Building a smart portfolio management tool using AI models for risk-adjusted asset allocation and performance forecasting.
 
   - Integrating market and sentiment data APIs (e.g., Alpha Vantage, Reddit) for real-time financial insights.
