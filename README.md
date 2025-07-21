@@ -18,18 +18,11 @@ I am also confident that my soft skills through most recently becoming a robotic
 
 ## 🛠️ Under Construction
 
-- **[📈 AI-Powered Portfolio Manager – React.js, Java, PostgreSQL **
-  - This is my modern financial assistant app for empowering others to find the next big opportunity in the stock market.
-     
-  - Building a smart portfolio management tool using AI models for risk-adjusted asset allocation and performance forecasting.
-
-  - Integrating market and sentiment data APIs (e.g., Alpha Vantage, Reddit) for real-time financial insights.
-
-  - Developing and deploying ML models (Scikit-learn, LightGBM) via FastAPI for portfolio optimization recommendations.
-
-  - Creating an interactive React dashboard with charts and rebalancing insights using Plotly and D3.js.
-
-  - Deploying full-stack app on AWS using EC2, S3, and Route 53; secured backend with OAuth2 and HTTPS.
+- **[📈 AI-Powered Portfolio Manager – React.js, Java, PostgreSQL **     
+  - Built a stock dashboard with charts and search feature.
+  - Utilized yfinance API for chart data.
+  - Included recent news about stocks using newsapi.org.
+  - Developed a RESTful API using Flask to serve real-time stock market data with dynamic period and interval parameters, handling requests for multiple timeframes (1d to max historical data) 
 
 ---
 ## 🚀 Projects
