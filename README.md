@@ -2,8 +2,6 @@
 
 ## 💻 About Me
 Hi there! I'm John.
-
-I am a well-rounded developer who is both approachable and knowledgeable.
 My focus is on creating software for the modern internet that is a joy to use and helps businesses to achieve their goals. 
 
 I am the person to talk to about creating expressive websites that make the most of your first impressions at the top-of-the-funnel. 
