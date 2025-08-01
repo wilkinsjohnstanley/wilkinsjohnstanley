@@ -20,7 +20,7 @@ My specialty lies in cultivating unique, immersive experiences across all device
 
 ## 🛠️ Under Construction
 
-- **[Ecommerce Brand Website - React.js, TypeScript, TailwindCSS, Node.js]**     
+- **Ecommerce Brand Website - React.js, TypeScript, TailwindCSS, Node.js**     
   - I'm creating an ecommerce brand on my own using modern technologies.
   - It's a modern and expressive website that pulls interested customers from the top of the funnel and lures them into completing purchases.
   - I leveraged all kinds of effects using TailwindCSS to make the website feel inviting and real. 
@@ -29,12 +29,12 @@ My specialty lies in cultivating unique, immersive experiences across all device
 ## 🚀 Projects
 
 
-- **[🌐 Portfolio Website - Node.js, JavaScript, AWS Route 53, AWS Amplify, APIs]**  
+- ** Portfolio Website - Node.js, JavaScript, AWS Route 53, AWS Amplify, APIs**  
   - Used AWS Amplify to host the website online and AWS Route 53 to register my domain.  
   - Added a language toggle with recognizable icons for English/Japanese website versions.  
   - Implemented an API call to OpenWeatherMap for real-time weather information.  
   - Developed a responsive web application with seamless mobile optimization.
-- **[🏪 MetroMart - React, Express, Node, and MySQL. ]**
+- **🏪 MetroMart - React, Express, Node, and MySQL. **
   - The project addresses the challenge of efficiently managing retail operations.
   - Created scalable database allowing for extensibility across multiple stores with varying product availability, pricing, and stock levels.
   - Fully functional interface for managing and analyzing data in the database. 
