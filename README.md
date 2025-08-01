@@ -20,11 +20,10 @@ My specialty lies in cultivating unique, immersive experiences across all device
 
 ## 🛠️ Under Construction
 
-- **[📈 AI-Powered Portfolio Manager – React.js, Java, PostgreSQL **     
-  - Built a stock dashboard with charts and search feature.
-  - Utilized yfinance API for chart data.
-  - Included recent news about stocks using newsapi.org.
-  - Developed a RESTful API using Flask to serve real-time stock market data with dynamic period and interval parameters, handling requests for multiple timeframes (1d to max historical data) 
+- **[Ecommerce Brand Website - React.js, TypeScript, TailwindCSS, Node.js]**     
+  - I'm creating an ecommerce brand on my own using modern technologies.
+  - It's a modern and expressive website that pulls interested customers from the top of the funnel and lures them into completing purchases.
+  - I leveraged all kinds of effects using TailwindCSS to make the website feel inviting and real. 
 
 ---
 ## 🚀 Projects
