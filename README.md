@@ -13,13 +13,6 @@ I have a Masters degree in Computer Science.
 
 ---
 
-## 🛠️ Under Construction
-
-- **Ecommerce Brand Website - React.js, TypeScript, TailwindCSS, Node.js**     
-  - I'm creating an ecommerce brand on my own using modern technologies.
-  - It's a modern and expressive website that pulls interested customers from the top of the funnel and lures them into completing purchases.
-  - I leveraged all kinds of effects using TailwindCSS to make the website feel inviting and real. 
-
 ---
 ## 🚀 Projects
 
