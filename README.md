@@ -3,7 +3,7 @@
 ## 💻 About Me
 Hi there! I'm John.
 I'm a computer science graduate focused on building a career in data engineering. I have a strong foundation in backend systems, databases, and distributed data processing. I enjoy solving problems that involve transforming and scaling data to generate meaningful insights. 
-I'm currently a data engineering intern with Revature where I've been working extensively with technologies such as Spark, SQL, Power BI, Scala, Python, and graph databases such as Neo4J. 
+I'm currently a data engineering associate with Revature where I've been working extensively with technologies such as Spark, SQL, Power BI, Scala, Python, and graph databases such as Neo4J. 
 Through this experience, I've gained a deeper understanding of data pipelines and large-scale data processing. 
 ---
 ## 🛠️ Skills
