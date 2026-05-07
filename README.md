@@ -9,11 +9,17 @@ Through this experience, I've gained a deeper understanding of data pipelines an
 ## 🛠️ Skills
 
 **Languages:** Python, SQL, JavaScript, TypeScript, Cypher
+
 **Frameworks and Libraries:** React.js, Node.js, Express.js, PySpark, Tailwind CSS
+
 **Databases & Data Technologies:** MySQL, Neo4j, Parquet
+
 **Data Visualization & Analytics:** Power BI
+
 **Tools:** Git, GitHub, VS Code
+
 **Methodologies:** Agile-Scrum
+
 **Cloud Computing:** AWS
 
 ---
