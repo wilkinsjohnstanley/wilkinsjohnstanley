@@ -27,6 +27,14 @@ Through this experience, I've gained a deeper understanding of data pipelines an
 ---
 ## 🚀 Projects
 
+* **Semantic Movie Search Engine - PySpark, Weaviate, Python**
+
+     *Cleaned and transformed messy bronze CSV movie data into silver Parquet using PySpark, normalizing IDs, release dates, budgets, runtimes, credits, keywords, and ratings.
+     *Joined silver tables into enriched gold movie records with director/top cast extraction, genre/keyword lists, aggregated rating features, and a combined semantic text field.
+     *Bulk-loaded gold Parquet into a local Weaviate instance with Python and Docker Compose to create searchable movie embeddings.
+     *Built a Python CLI search workflow that returns top semantic matches with title, release date, director, cast, rating, and overview snippets.
+
+
 * **Fraud Detection - Python, Neo4j, PySpark, Power BI**
 
   * Modeled PaySim transaction data as a graph in Neo4j to represent accounts and mobile money transfers.
